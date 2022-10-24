@@ -1,16 +1,44 @@
 ### Hi there 👋
 
 <!--
-**gonalba/gonalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Presentación**
 
-Here are some ideas to get you started:
+## Estudios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Trabajos
+
+
+## Preview de lo que hay mas abajo
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| [**Proyectos**](#proyectos-realizados) | [**Lenguajes de programación**](#lenguajes-de-programación) | [**Programas de desarrollo**](#programas-de-desarrollo) | [**Contacto**](#contacto) |
+
+# **Proyectos realizados**
+
+(pequeña descripción y enlace a exe)
+
+# **Lenguajes de programación** 
+
+(Proyectos donde los he utilizado)
+
+# **Programas de desarrollo** 
+
+(Proyectos donde los he utilizado)
+
+# **Contacto** 
+
+-->
+<!--
+IDEAS
+    Poner solo la pestaña de proyectos y poner en cada uno que herramientas he utilizado asi como el lenguaje de programacion en el que está hecho.
+DESPLEGABLE
+    <details>
+    <summary>titulo</summary>
+
+    Detalles
+
+    </details>
+
+Salto de linea -> <br>
 -->
