@@ -13,7 +13,7 @@ Email: gonzaloalba96@gmail.com
 
 | [**YonduLib**](#yondulib) | [**0hn0**](#0hn0) | [**FlowFree**](#flowfree) | [**Off the line**](#off-the-line)| [**Ice Climbers**](#ice-climbers)|
 | :-: | :-: | :-: | :-: | :-: |
-| [<div align="center"><img src="images/unity_logo.png" alt="drawing" height="73" vspace="10"/></div>](#yondulib) | [<div align="center"><img src="images/ohno_icon.png" alt="drawing" height="70" vspace="10"/></div>](#0hn0) | [<div align="center"><img src="images/flowfree_icon_fullHD.png" alt="drawing" height="72" vspace="10"/></div> ](#flowfree) | [<div align="center"><img src="images/offtheline_icon.png" alt="drawing" height="70" vspace="10"/></div> ](#off-the-line)|
+| [<div align="center"><img src="images/unity_logo.png" alt="unity logo" height="73" vspace="10"/></div>](#yondulib) | [<div align="center"><img src="images/ohno_icon.png" alt="ohno icon" height="70" vspace="10"/></div>](#0hn0) | [<div align="center"><img src="images/flowfree_icon_fullHD.png" alt="flowfree icon" height="72" vspace="10"/></div> ](#flowfree) | [<div align="center"><img src="images/offtheline_icon.png" alt=" off the line icon" height="70" vspace="10"/></div> ](#off-the-line) |  [<div align="center"><img src="images/iceclimbers_icon.png" alt="ice climbers icon" height="70" vspace="10"/></div> ](#off-the-line)|
 
 ###### *Los videojuegos desarrollados son copias de los juegos originales con fines académicos.*
 
