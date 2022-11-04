@@ -11,8 +11,8 @@ Email: gonzaloalba96@gmail.com
 
 # **Proyectos**
 
-| [**YonduLib**](#yondulib) | [**0hn0**](#0hn0) | [**FlowFree**](#flowfree) | [**Off the line**](#off-the-line)|
-| :-: | :-: | :-: | :-: |
+| [**YonduLib**](#yondulib) | [**0hn0**](#0hn0) | [**FlowFree**](#flowfree) | [**Off the line**](#off-the-line)| [**Ice Climbers**](#ice-climbers)|
+| :-: | :-: | :-: | :-: | :-: |
 | [<div align="center"><img src="images/unity_logo.png" alt="drawing" height="73" vspace="10"/></div>](#yondulib) | [<div align="center"><img src="images/ohno_icon.png" alt="drawing" height="70" vspace="10"/></div>](#0hn0) | [<div align="center"><img src="images/flowfree_icon_fullHD.png" alt="drawing" height="72" vspace="10"/></div> ](#flowfree) | [<div align="center"><img src="images/offtheline_icon.png" alt="drawing" height="70" vspace="10"/></div> ](#off-the-line)|
 
 ###### *Los videojuegos desarrollados son copias de los juegos originales con fines académicos.*
@@ -74,5 +74,18 @@ Este proyecto es una copia del juego para móviles Flow Free desarrollada con fi
 
 [**Enlace a Drive**](https://drive.google.com/drive/folders/1AIwnG8nszKUX191Shj3mU290NJPaqWF1?usp=sharing)  
 [**Repositorio**](https://github.com/nubango/videojuegos-para-dispositivos-moviles/tree/main/OffTheLine)
+
+## **Ice Climbers**
+
+</div>
+  
+Este proyecto es una versión del juego Ice Climbers desarrollada con fines académicos. Es un juego web desarrollado en JavaScript en el que controlamos al personaje Popo que tiene que ir escalando las plataformas rompiendo el hielo y evitando a los enemigos que se encuentra a su paso.
+
+<div align="center">
+
+<img src="images/ice_climbers.jpg" alt="ice climbers"  width="500" vspace="10"/>
+
+[**Web**](https://gonalba.github.io/IceClimbers/src/index.html)  
+[**Repositorio**](https://github.com/gonalba/IceClimbers)
 
 </div>
