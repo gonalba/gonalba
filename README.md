@@ -23,7 +23,9 @@ Email: gonzaloalba96@gmail.com
 
 </div>
 
-YonduLib es un plugin para Unity que permite vincular las diferentes acciones del juego con comandos de sonido como silbar, chasquidos o golpes. Se apoya en el nuevo sistema de entrada *Input System* de Unity. El propio plugin proporciona una escena de prueba FPS en la que te mueves silbando y disparas chascando los dedos. Las instrucciones de cómo descargar el plugin están en el README.md del propio repositorio de [YonduLib](https://github.com/nubango/yondulib).
+YonduLib es un plugin para Unity que permite vincular las diferentes acciones del juego con comandos de sonido como silbar, chasquidos o golpes. Es el Trabajo de Fin de Grado en el Grado de Desarrollo de Videojuegos en la Universidad Complutense de Madrid desarrollado junto con mi compañera Nuria (GitHub [nubango](https://github.com/nubango)). 
+
+Este proyecto se apoya en el nuevo sistema de entrada [*Input System*](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) de Unity. El propio plugin proporciona una escena de prueba FPS en la que te mueves silbando y disparas chascando los dedos. Las instrucciones de cómo descargar el plugin están en el README.md del propio repositorio de [YonduLib](https://github.com/nubango/yondulib).
 
 <div align="center">
 
