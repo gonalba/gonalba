@@ -27,7 +27,7 @@ YonduLib es un plugin para Unity que permite vincular las diferentes acciones de
 
 <div align="center">
 
-<img src="images/yondulib.png" alt="drawing" width="800" vspace="10"/>
+<img src="images/yondulib.png" alt="Yondulib image" width="800" vspace="10"/>
 
 [**Plugin**](https://github.com/nubango/yondulib)  
 [**Proyecto de desarrollo**](https://github.com/nubango/yondulib-project)
@@ -40,7 +40,7 @@ YonduLib es un plugin para Unity que permite vincular las diferentes acciones de
 
 Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos. Es un juego para móviles al estilo sudoku con diferentes nieveles de dificultad. Tiene un sistema de pistas para ayudar al jugador cuando se resuelve mal el tablero. El proyecto está desarrollado en Java utilizando Android Studio y permite la ejecución tanto para Android como para Windows.
 
-<div align="center"><img src="images/0hn0.jpg" alt="drawing"  width="500" vspace="10"/>
+<div align="center"><img src="images/0hn0.jpg" alt="0hn0 image"  width="500" vspace="10"/>
 
 [**Enlace a Drive**](https://drive.google.com/drive/folders/1yXF98keuLv8iFg9KiPYFmkIAtgaaKddp?usp=sharing)  
 [**Repositorio**](https://github.com/gonalba/0hn0)
@@ -53,7 +53,7 @@ Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos
 
 Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego consiste en resolver puzzles uniendo los puntos del mismo color, distribuidos por un tablero, sin que se corten. Contiene multitud de niveles con distintas dificultades reconocibles por un código de color. Esta desarrollado en Unity con C# y la carga de mapas se realiza a través de ScriptableObjects.
 
-<div align="center"><img src="images/FlowFree.jpg" alt="drawing" width="500" vspace="10"/>
+<div align="center"><img src="images/FlowFree.jpg" alt="FlowFree image" width="500" vspace="10"/>
 
 [**Enlace a Drive**](https://drive.google.com/drive/folders/1IiqBSmSgq0cC2PqdO8Coid3CSISBy2_F?usp=sharing)  
 [**Repositorio**](https://github.com/nubango/FlowFree)
@@ -68,7 +68,7 @@ Este proyecto es una copia del juego para móviles Flow Free desarrollada con fi
 
 <div align="center">
 
-<img src="images/offtheline.jpg" alt="drawing"  width="500" vspace="10"/>
+<img src="images/offtheline.jpg" alt="Off the line image"  width="500" vspace="10"/>
 
 [**Enlace a Drive**](https://drive.google.com/drive/folders/1AIwnG8nszKUX191Shj3mU290NJPaqWF1?usp=sharing)  
 [**Repositorio**](https://github.com/nubango/videojuegos-para-dispositivos-moviles/tree/main/OffTheLine)
