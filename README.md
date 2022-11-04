@@ -1,44 +1,76 @@
-### Hi there 👋
+### Buenas ^^👋
 
-<!--
-# **Presentación**
+Soy Gonzalo y este es mi perfil de GitHub en el que encontrarás proyectos en los que he trabajado a lo largo de mi fromación como desarrollador de videojuegos. A continuación viene un resumen de los más relevantes.
 
-## Estudios
+Puedes contactar conmigo a traves de:
 
-## Trabajos
+LinkedIn: [Gonzalo Alba Durán](https://www.linkedin.com/in/gonzalo-alba-duran-b7aa50210/)  
+Email: gonzaloalba96@gmail.com
 
+<div align="center">
 
-## Preview de lo que hay mas abajo
+# **Proyectos**
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| [**Proyectos**](#proyectos-realizados) | [**Lenguajes de programación**](#lenguajes-de-programación) | [**Programas de desarrollo**](#programas-de-desarrollo) | [**Contacto**](#contacto) |
+| [**YonduLib** <div align="center"><img src="images/unity_logo.png" alt="drawing" height="73" vspace="10"/></div>](#yondulib) | [**0hn0** <div align="center"><img src="images/ohno_icon.png" alt="drawing" height="70" vspace="10"/></div>](#0hn0) | [**FlowFree** <div align="center"><img src="images/flowfree_icon_fullHD.png" alt="drawing" height="72" vspace="10"/></div> ](#flowfree) | [**Off the line** <div align="center"><img src="images/offtheline_icon.png" alt="drawing" height="70" vspace="10"/></div> ](#off-the-line)|
 
-# **Proyectos realizados**
+###### *Los videojuegos desarrollados son copias de los juegos originales con fines académicos.*
 
-(pequeña descripción y enlace a exe)
+***
 
-# **Lenguajes de programación** 
+## **YonduLib**
 
-(Proyectos donde los he utilizado)
+</div>
 
-# **Programas de desarrollo** 
+YonduLib es un plugin para Unity que permite vincular las diferentes acciones del juego con comandos de sonido como silbar, chasquidos o golpes. Se apoya en el nuevo sistema de entrada *Input System* de Unity. El propio plugin proporciona una escena de prueba FPS en la que te mueves silbando y disparas chascando los dedos. Las instrucciones de cómo descargar el plugin están en el README.md del propio repositorio de [YonduLib](https://github.com/nubango/yondulib).
 
-(Proyectos donde los he utilizado)
+<div align="center">
 
-# **Contacto** 
+<img src="images/yondulib.png" alt="drawing" width="800" vspace="10"/>
 
--->
-<!--
-IDEAS
-    Poner solo la pestaña de proyectos y poner en cada uno que herramientas he utilizado asi como el lenguaje de programacion en el que está hecho.
-DESPLEGABLE
-    <details>
-    <summary>titulo</summary>
+[**Plugin**](https://github.com/nubango/yondulib)  
+[**Proyecto de desarrollo**](https://github.com/nubango/yondulib-project)
 
-    Detalles
+***
 
-    </details>
+## **0hn0**
 
-Salto de linea -> <br>
--->
+</div>
+
+Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos. Es un juego para móviles al estilo sudoku con diferentes nieveles de dificultad. Tiene un sistema de pistas para ayudar al jugador cuando se resuelve mal el tablero. El proyecto está desarrollado en Java utilizando Android Studio y permite la ejecución tanto para Android como para Windows.
+
+<div align="center"><img src="images/0hn0.jpg" alt="drawing"  width="500" vspace="10"/>
+
+[**Enlace a Drive**](https://drive.google.com/drive/folders/1yXF98keuLv8iFg9KiPYFmkIAtgaaKddp?usp=sharing)  
+[**Repositorio**](https://github.com/gonalba/0hn0)
+
+***
+
+## **FlowFree**
+
+</div>
+
+Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego consiste en resolver puzzles uniendo los puntos del mismo color, distribuidos por un tablero, sin que se corten. Contiene multitud de niveles con distintas dificultades reconocibles por un código de color. Esta desarrollado en Unity con C# y la carga de mapas se realiza a través de ScriptableObjects.
+
+<div align="center"><img src="images/FlowFree.jpg" alt="drawing" width="500" vspace="10"/>
+
+[**Enlace a Drive**](https://drive.google.com/drive/folders/1IiqBSmSgq0cC2PqdO8Coid3CSISBy2_F?usp=sharing)  
+[**Repositorio**](https://github.com/nubango/FlowFree)
+
+***
+
+## **Off the line**
+
+</div>
+
+Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego contiene 20 niveles donde tendrás que obtener todos los items para poder pasar al siguiente. El proyecto está desarrollado en Java utilizando Android Studio y permite la ejecución tanto para Android como para Windows.
+
+<div align="center">
+
+<img src="images/offtheline.jpg" alt="drawing"  width="500" vspace="10"/>
+
+[**Enlace a Drive**](https://drive.google.com/drive/folders/1AIwnG8nszKUX191Shj3mU290NJPaqWF1?usp=sharing)  
+[**Repositorio**](https://github.com/nubango/videojuegos-para-dispositivos-moviles/tree/main/OffTheLine)
+
+</div>
