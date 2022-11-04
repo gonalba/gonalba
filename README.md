@@ -1,8 +1,8 @@
 ### Buenas ^^👋
 
-Soy Gonzalo y este es mi perfil de GitHub en el que encontrarás proyectos en los que he trabajado a lo largo de mi fromación como desarrollador de videojuegos. A continuación viene un resumen de los más relevantes.
+Soy Gonzalo y este es mi perfil de GitHub en el que encontrarás proyectos en los que he trabajado a lo largo de mi formación como desarrollador de videojuegos. A continuación viene un resumen de los más relevantes.
 
-Puedes contactar conmigo a traves de:
+Puedes contactar conmigo a través de:
 
 LinkedIn: [Gonzalo Alba Durán](https://www.linkedin.com/in/gonzalo-alba-duran-b7aa50210/)  
 Email: gonzaloalba96@gmail.com
