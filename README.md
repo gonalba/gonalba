@@ -68,7 +68,7 @@ Este proyecto es una copia del juego para móviles Flow Free desarrollada con fi
 
 <div align="center">
 
-<img src="images/offtheline.jpg" alt="Off the line image"  width="500" vspace="10"/>
+<img src="images/Offtheline.jpg" alt="Off the line image"  width="500" vspace="10"/>
 
 [**Enlace a Drive**](https://drive.google.com/drive/folders/1AIwnG8nszKUX191Shj3mU290NJPaqWF1?usp=sharing)  
 [**Repositorio**](https://github.com/nubango/videojuegos-para-dispositivos-moviles/tree/main/OffTheLine)
