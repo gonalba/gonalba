@@ -31,7 +31,7 @@ Este proyecto se apoya en el nuevo sistema de entrada [*Input System*](https://d
 
 <img src="images/yondulib.png" alt="Yondulib image" width="800" vspace="10"/>
 
-[**Plugin**](https://github.com/nubango/yondulib)  
+<a href="https://github.com/nubango/yondulib" target="_blank">**Plugin**</a>  
 [**Proyecto de desarrollo**](https://github.com/nubango/yondulib-project)
 
 ***
