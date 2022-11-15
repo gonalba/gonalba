@@ -23,9 +23,9 @@ Email: gonzaloalba96@gmail.com
 
 </div>
 
-YonduLib es un plugin para Unity que permite vincular las diferentes acciones del juego con comandos de sonido como silbar, chasquidos o golpes. Fue presentado como el Trabajo de Fin de Grado en Desarrollo de Videojuegos de la Universidad Complutense de Madrid. 
+YonduLib es un **plugin para Unity** que permite vincular las diferentes acciones del juego con comandos de sonido como silbar, chasquidos o golpes. Fue presentado como el Trabajo de Fin de Grado en Desarrollo de Videojuegos de la Universidad Complutense de Madrid. 
 
-Este proyecto se apoya en el nuevo sistema de entrada [*Input System*](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) de Unity. El propio plugin proporciona una escena de prueba FPS en la que te mueves silbando y disparas chascando los dedos. Las instrucciones de cómo descargar el plugin están en el README.md del propio repositorio de [YonduLib](https://github.com/nubango/yondulib).
+Este proyecto se apoya en el nuevo sistema de entrada [***Input System***](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) de Unity. El propio plugin proporciona una escena de prueba FPS en la que te mueves silbando y disparas chascando los dedos. Las instrucciones de cómo descargar el plugin están en el README.md del propio repositorio de [YonduLib](https://github.com/nubango/yondulib).
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Este proyecto se apoya en el nuevo sistema de entrada [*Input System*](https://d
 
 </div>
 
-Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos. Es un juego para móviles al estilo sudoku con diferentes nieveles de dificultad. Tiene un sistema de pistas para ayudar al jugador cuando se resuelve mal el tablero. El proyecto está desarrollado en Java utilizando Android Studio y permite la ejecución tanto para Android como para Windows.
+Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos. Es un juego para móviles al estilo sudoku con diferentes nieveles de dificultad. Tiene un sistema de pistas para ayudar al jugador cuando se resuelve mal el tablero. El proyecto está desarrollado en **Java** utilizando **Android Studio** y permite la ejecución tanto para **Android** como para **Windows**.
 
 <div align="center"><img src="images/0hn0.jpg" alt="0hn0 image"  width="500" vspace="10"/>
 
@@ -53,7 +53,7 @@ Este proyecto es una copia del juego web 0hn0 desarrollada con fines académicos
 
 </div>
 
-Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego consiste en resolver puzzles uniendo los puntos del mismo color, distribuidos por un tablero, sin que se corten. Contiene multitud de niveles con distintas dificultades reconocibles por un código de color. Esta desarrollado en Unity con C# y la carga de mapas se realiza a través de ScriptableObjects.
+Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego consiste en resolver puzzles uniendo los puntos del mismo color, distribuidos por un tablero, sin que se corten. Contiene multitud de niveles con distintas dificultades reconocibles por un código de color. Esta desarrollado en **Unity con C#** y la carga de mapas se realiza a través de **ScriptableObjects**.
 
 <div align="center"><img src="images/FlowFree.jpg" alt="FlowFree image" width="500" vspace="10"/>
 
@@ -66,7 +66,7 @@ Este proyecto es una copia del juego para móviles Flow Free desarrollada con fi
 
 </div>
 
-Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego contiene 20 niveles donde tendrás que obtener todos los items para poder pasar al siguiente. El proyecto está desarrollado en Java utilizando Android Studio y permite la ejecución tanto para Android como para Windows.
+Este proyecto es una copia del juego para móviles Flow Free desarrollada con fines académicos. El juego contiene 20 niveles donde tendrás que obtener todos los items para poder pasar al siguiente. El proyecto está desarrollado en **Java utilizando Android Studio** y permite la ejecución tanto para **Android** como para **Windows**.
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Este proyecto es una copia del juego para móviles Flow Free desarrollada con fi
 
 </div>
   
-Este proyecto es una versión del juego Ice Climbers desarrollada con fines académicos. Es un juego web desarrollado en JavaScript en el que controlamos al personaje Popo que tiene que ir escalando las plataformas rompiendo el hielo y evitando a los enemigos que se encuentra a su paso.
+Este proyecto es una versión del juego Ice Climbers desarrollada con fines académicos. Es un juego web desarrollado en **JavaScript** y **Phaser** en el que controlamos al personaje Popo que tiene que ir escalando las plataformas rompiendo el hielo y evitando a los enemigos que se encuentra a su paso.
 
 <div align="center">
 
